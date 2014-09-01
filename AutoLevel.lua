@@ -1,5 +1,6 @@
 -- Jokiblack Auto Level Spells --
 -- Version 0.1 --
+local version = "0.1"
  
 local abilitySequence
 local qOff, wOff, eOff, rOff = 0,0,0,0
